@@ -18,7 +18,7 @@
 
 /* Begin PBXFileReference section */
 		EA2A42B71FC0643A000DD075 /* PlayingCardDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardDeck.swift; sourceTree = "<group>"; };
-		EAF1E2041FBF617300A747B2 /* PlayingCard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlayingCard.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EAF1E2041FBF617300A747B2 /* Lecture 5 - PlayingCard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lecture 5 - PlayingCard.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAF1E2071FBF617300A747B2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EAF1E2091FBF617300A747B2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		EAF1E20C1FBF617300A747B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 		EAF1E2051FBF617300A747B2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EAF1E2041FBF617300A747B2 /* PlayingCard.app */,
+				EAF1E2041FBF617300A747B2 /* Lecture 5 - PlayingCard.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -81,9 +81,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EAF1E2031FBF617300A747B2 /* PlayingCard */ = {
+		EAF1E2031FBF617300A747B2 /* Lecture 5 - PlayingCard */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EAF1E2161FBF617300A747B2 /* Build configuration list for PBXNativeTarget "PlayingCard" */;
+			buildConfigurationList = EAF1E2161FBF617300A747B2 /* Build configuration list for PBXNativeTarget "Lecture 5 - PlayingCard" */;
 			buildPhases = (
 				EAF1E2001FBF617300A747B2 /* Sources */,
 				EAF1E2011FBF617300A747B2 /* Frameworks */,
@@ -93,9 +93,9 @@
 			);
 			dependencies = (
 			);
-			name = PlayingCard;
+			name = "Lecture 5 - PlayingCard";
 			productName = PlayingCard;
-			productReference = EAF1E2041FBF617300A747B2 /* PlayingCard.app */;
+			productReference = EAF1E2041FBF617300A747B2 /* Lecture 5 - PlayingCard.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -114,7 +114,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EAF1E1FF1FBF617300A747B2 /* Build configuration list for PBXProject "PlayingCard" */;
+			buildConfigurationList = EAF1E1FF1FBF617300A747B2 /* Build configuration list for PBXProject "Lecture 5 - PlayingCard" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -127,7 +127,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EAF1E2031FBF617300A747B2 /* PlayingCard */,
+				EAF1E2031FBF617300A747B2 /* Lecture 5 - PlayingCard */,
 			);
 		};
 /* End PBXProject section */
@@ -291,9 +291,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 663TR68DHM;
 				INFOPLIST_FILE = PlayingCard/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = DeimanTechnology.PlayingCard;
+				PRODUCT_BUNDLE_IDENTIFIER = "DeimanTechnology.Lecture-5-PlayingCard";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -305,9 +306,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 663TR68DHM;
 				INFOPLIST_FILE = PlayingCard/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = DeimanTechnology.PlayingCard;
+				PRODUCT_BUNDLE_IDENTIFIER = "DeimanTechnology.Lecture-5-PlayingCard";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -317,7 +319,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EAF1E1FF1FBF617300A747B2 /* Build configuration list for PBXProject "PlayingCard" */ = {
+		EAF1E1FF1FBF617300A747B2 /* Build configuration list for PBXProject "Lecture 5 - PlayingCard" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EAF1E2141FBF617300A747B2 /* Debug */,
@@ -326,7 +328,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EAF1E2161FBF617300A747B2 /* Build configuration list for PBXNativeTarget "PlayingCard" */ = {
+		EAF1E2161FBF617300A747B2 /* Build configuration list for PBXNativeTarget "Lecture 5 - PlayingCard" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EAF1E2171FBF617300A747B2 /* Debug */,
